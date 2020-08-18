@@ -1,5 +1,5 @@
 {
-    "Simulator Target Bundle": "com.aivarsmeijers.pushNotifications",
+    "Simulator Target Bundle": "com.vetslg.freightTrack",
     "aps":{
         "alert":"Test drop",
         "sound":"default",
